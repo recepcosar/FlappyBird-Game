@@ -1,0 +1,10 @@
+C:\C# Lessons\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\C# Lessons\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\C# Lessons\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\C# Lessons\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\C# Lessons\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\C# Lessons\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\C# Lessons\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\C# Lessons\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\C# Lessons\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\C# Lessons\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
